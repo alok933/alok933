@@ -1,18 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alok 👋
 
-<a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
-  <img align="right" alt="[Your Name] | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/alok933/" target="_blank">
+  <img align="right" alt="Alok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://[your-portfolio-website.com]" target="_blank">
+<!-- <a href="https://[your-portfolio-website.com]" target="_blank">
   <img align="right" alt="[Your Name] | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" style="padding-right:10px;" />
-</a>
+</a> -->
 
 I'm a passionate **Software Developer** with a knack for building scalable web applications and leveraging data to drive decision-making. My expertise lies at the intersection of modern web development and data science, where I enjoy turning complex problems into elegant, user-centric solutions. 🚀
 
--   🌱 I’m currently diving deeper into **[mention a technology, e.g., MLOps or Rust]**.
--   👯 I’m looking to collaborate on **open-source projects related to [mention an interest, e.g., data visualization or developer tools]**.
+-   🌱 I’m currently diving deeper into **Nextjs**.
+-   👯 I’m looking to collaborate on **open-source projects related to Webdev and Machine Learning**.
 -   💬 Ask me about **React, Python, Node.js, or anything related to building data-intensive applications**.
--   📫 How to reach me: **[your-email@provider.com]**
+-   📫 How to reach me: **aloksingh981102@gmail.com**
 
 ---
 
@@ -96,32 +96,31 @@ Here are some of my top projects. Be sure to check them out!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project Title 1: [Name of Your Project]</h3>
-      <p>A short, compelling description of your project. What problem does it solve? What makes it stand out? E.g., "A web app that predicts stock market trends using sentiment analysis on news headlines."</p>
-      <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB, Scikit-learn</p>
+      <h3>Project Title 1: Learning Management System</h3>
+      <p>"Developed a Learning Management System (LMS) with features for course creation, enrollment, and secure
+content delivery."</p>
+      <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB, Stripe, Clerk</p>
       <p>
-        <a href="[link-to-your-project-repo]"><strong>GitHub Repo</strong></a> | 
-        <a href="[link-to-live-demo]"><strong>Live Demo</strong></a>
+        <a href="https://github.com/alok933/courses"><strong>GitHub Link For Project</strong></a> | 
+<!--         <a href=""><strong>Live Demo</strong></a> -->
       </p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <img src="[link-to-your-project-image-or-gif]" alt="Project 1 Screenshot/GIF"/>
-    </td>
+    </td> -->
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3>Project Title 2: [Name of Your Project]</h3>
+      <h3>Project Title 2: Anonymous Messages</h3>
       <p>Another compelling project description. E.g., "A real-time data visualization dashboard for IoT sensor data, built with a serverless backend."</p>
-      <p><strong>Technologies:</strong> Vue.js, Python, Flask, AWS Lambda, PostgreSQL</p>
+      <p><strong>Technologies:</strong> Reactjs, Nextjs, MongoDB, Resend, Auth, AI-sdk, Api routing</p>
       <p>
-        <a href="[link-to-your-project-repo]"><strong>GitHub Repo</strong></a> | 
-        <a href="[link-to-live-demo]"><strong>Live Demo</strong></a>
+        <a href="https://github.com/alok933/anony-message"><strong>GitHub Repo Link</strong></a> | 
+        <a href="messages-aa.vercel.app"><strong>Live Demo</strong></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <img src="[link-to-your-project-image-or-gif]" alt="Project 2 Screenshot/GIF"/>
-    </td>
+    
   </tr>
 </table>
 
